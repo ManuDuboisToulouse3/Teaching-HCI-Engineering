@@ -1,2 +1,2 @@
-# Teaching-HCI-Eng-CS
+# Teaching-HCI-Engineering
 Case Studies in Teaching HCI Engineering
