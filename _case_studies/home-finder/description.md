@@ -13,7 +13,7 @@ brief-description: "The Home Finder is an interactive application allowing the e
 ## Targeted students and prerequisites
 The main target type of student is a person enrolled in a Master in Computer Science which has been tuned to address interactive critical system aspects~\cite{ref9}, and following the learning unit named \enquote{Interactive Systems Software Engineering}. The main prerequisite is to have basic knowledge about databases, as well as about the Java Swing graphical toolkit for the programming of user interfaces.
 
-# Objectives
+## Objectives
 The main objective is to make the students understand that most of the code is dedicated to UI and that to program functions for users to add/modify/remove data is complicated. In addition, this exercise also aims to highlight that:
 
 * the design of the UI can be relatively independent from the functional core users' tasks have to be identified,
