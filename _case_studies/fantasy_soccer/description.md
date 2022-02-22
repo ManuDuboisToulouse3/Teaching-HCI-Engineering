@@ -2,6 +2,11 @@
 layout: case-study
 permalink: /case_studies/fantasy_soccer/description.html
 title: Fantasy Soccer
+authors:
+  - author:
+      name: Davide
+      surname: Spano
+      url: "https://cg3hci.dmi.unica.it/lab/en/people/davide.spano"
 type: Project
 application-domains: 
   - Sport
@@ -46,3 +51,8 @@ The evaluation grid for the project assigns 19 points out of the 30 available fo
     * 5 points of the explanation of the design choices
     * 4 points for the high-fidelity prototype interface
     * 2 points for the usability evaluation
+
+<img src="assets/fig4-a.png" alt="Low fidelity prototype sample" width="200px" style="max-width: 200px"/>
+<img src="assets/fig4-b.png" alt="High fidelity prototype sample" width="200px" style="max-width: 200px"/>
+
+_A Sample low-fidelity prototype for the live scoring interface (by Eligio Cabras) and the high fidelity prototype for the same interface (by the group Urlo del sIUM: Alessandro Pruner, Alessio Piriottu, Eligio Cabras and Marco Mulas)._

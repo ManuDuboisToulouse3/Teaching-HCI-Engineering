@@ -71,18 +71,26 @@
                         <h4 >Identity Card</h4>
                         <dl>
                             <dt>Type</dt>
-                            <dd><span class="badge bg-secondary">{{page.type}}<span></span></dd>
+                            <dd><span class="badge bg-primary">{{page.type}}<span></span></dd>
                             <dt>Application Domains</dt>
                             <dd>
                                 {% for app in page.application-domains %}
-                                <span class="badge bg-secondary">{{ app }}</span>
+                                <span class="badge bg-primary">{{ app }}</span>
                                 {% endfor %}
                             </dd>
                             <dt>Interaction Techniques</dt>
                             <dd>
                                 {% for app in page.interaction-techniques %}
-                                <span class="badge bg-secondary">{{ app }}</span>
+                                <span class="badge bg-primary">{{ app }}</span>
                                 {% endfor %}
+                            </dd>
+                            <dt>Authors</dt>
+                            <dd>
+                                <ul>
+                                    {% for a in page.authors %}
+                                    <li><a href="{{a.author.url}}">{{a.author.name}} {{a.author.surname}}</a></li>
+                                    {% endfor %}
+                                </ul>
                             </dd>
                         </dl>
                     </div>

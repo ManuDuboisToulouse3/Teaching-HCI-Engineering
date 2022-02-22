@@ -8,7 +8,7 @@ permalink: /case_studies/
 
 <div>
 {% for cs in site.case_studies %}
-    <div class="card">
+    <div class="card" style="margin-bottom: 10px">
       <div class="card-body">
         <h5 class="card-title"><a href="{{site.baseurl}}{{ cs.url }}">{{ cs.title}}</a></h5>
         <p class="card-text text-ellipsis--4">

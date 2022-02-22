@@ -2,6 +2,15 @@
 layout: case-study
 permalink: /case_studies/home-finder/description.html
 title: Home Finder
+authors:
+    - author: 
+        name: Philippe
+        surname: Palanque
+        url: "https://www.irit.fr/recherches/ICS/people/palanque/"
+    - author:
+        name: Célia
+        surname: Martinie
+        url: "https://www.irit.fr/recherches/ICS/people/martinie/index.html"
 type: Exercise
 application-domains: 
   - Databases
@@ -39,9 +48,12 @@ The students have to focus on implementing the user interfaces to be compliant w
 
 They have to use the Java Swing graphical toolkit and the NetBeans Integrated Development Environment.
 
-![Figure 1](/assets/fig5.png)
+<img src="assets/fig5.png" width=400 style="max-width: 400px" alt="Database editing user interface of the Home Finder">
 
-![Figure 2](/assets/fig6.png)
+_Figure 1: Database editing user interface of the Home Finder_
+
+![Figure 2](assets/fig6.png)
+_Figure 2: Visualisation user interface of the Home Finder_
 
 
 ## Expected output and evaluation
