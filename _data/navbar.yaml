@@ -1,0 +1,9 @@
+nav:
+  - title: Home
+    url: /
+
+  - title: Case Studies
+    url: /case_studies/
+
+  - title: Guide
+    url: /guide/

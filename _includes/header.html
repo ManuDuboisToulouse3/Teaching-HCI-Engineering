@@ -1,0 +1,21 @@
+<header class="fixed-top d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom bg-light">
+
+        <div class="container">
+            <div class="d-flex flex-wrap align-items-center  justify-content-center justify-content-lg-start">
+                <a href="{{site.baseurl}}/" class="d-flex align-items-center my-2 my-lg-0 me-lg-auto text-decoration-none">
+                    <img src="{{site.baseurl}}/images/ifip60-wg-logo2-1.jpg" height="35" alt="IFIP WG 2.7/13.4">
+                </a>
+
+                <ul class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 text-small">
+                    {% for item in site.data.navbar.nav %}
+                    <li >
+                        <a href="{{site.baseurl}}{{item.url}}" class="nav-link {% if (page.url == item.url) or ((page.url contains item.url) and (item.url != '/')) %}link-primary{% else %}link-secondary{% endif %}">
+                            {{item.title}}
+                        </a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+
+</header>
