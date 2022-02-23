@@ -72,6 +72,13 @@ interaction-techniques:
     - <first interaction technique (e.g., WIMP)>
     - <second interaction technique (if any>
     - <...>
+current-students: <current students' background (e.g., Computer Science)
+student-level: <L1 | L2 | L3 | M1 | M2 >
+HCI-theme: <brief description of the covered HCI themes>
+tools: 
+     - <tool used for teaching #1>
+     - <tool used for teaching #2>
+     - <...>
 brief-description: "<a few lines of description>"
 ---
 ## Targeted students and prerequisites

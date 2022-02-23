@@ -14,6 +14,11 @@ application-domains:
   - Game
 interaction-techniques:
     - WIMP
+current-students: "Computer Science"
+student-level: L3
+HCI-theme: "UI design and implementation"
+tools: 
+     - "Android toolkit"    
 brief-description: "The Fantasy Soccer application is a peer-to-peer variant of the usual game with top-league soccer players. The idea is to replicate such a game for lower leagues: the players create their fantasy team, including players from real teams. For each league turn, they will get points according to the grade (0 to 10) obtained by each player they put in the field, with some modifiers for special events (scoring a goal, providing an assist and so on). Differently from the usual game, the grading is not taken from newspapers or dedicated websites, but the application users assign scores in a peer-to-peer manner, attending the league games. "  
 ---
 

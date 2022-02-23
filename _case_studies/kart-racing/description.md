@@ -17,6 +17,11 @@ application-domains:
 interaction-techniques:
     - WIMP
     - post-WIMP
+current-students: "Computer Science"
+student-level: M1
+HCI-theme: "UI design"
+tools: 
+     - "UDP sockets"      
 brief-description: "The case study is based on an existing open-source kart racing game SuperTuxKart. The goal is to design input controllers to drive the kart in the kart racing game. The set of input commands includes: turn right, turn left, slow down, speed up, backtrack, back view and standard view. By starting with an existing game and a set of input commands, the goal is to focus only on the input interface and not on the other parts of the interactive system, including the game engine and the output interface."
 ---
 

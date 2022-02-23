@@ -11,7 +11,12 @@ application-domains:
    - Information system
    - Health 
 interaction-techniques:
-    - WIMP 
+    - WIMP
+current-students: "Computer Science"
+student-level: L3
+HCI-theme: "UI design and implementation"
+tools: 
+     - None
 brief-description: "The Project consists in developing a system to support doctors in prescribing medicines. The project might be seen as part of a larger medical information system but, for the purpose of the project, only the act of prescribing medication is considered. One interesting aspect of the project are the constraints that are imposed on prescriptions: each prescription can only have up to three different medical products, and psychotropic medicines cannot be mixed with other substances in the same prescription. This can potentially create a distance between the doctor's goal of prescribing a treatment, and how the medical products needed for that treatment must be organized into prescriptions."
 ---
 
