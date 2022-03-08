@@ -46,6 +46,7 @@ The project is decomposed into three steps:
 -	setting up the programming environment to enable the execution of a very basic example developed with the same library. Preparing a workspace based on external JAR and DLL? an appropriate JDK and existing source files is not easy but represent one of the current difficulties for developing AR applications.
 
 -	simple exercises to discover the main features of the tab detection library: identification of a tag; triggering a simple event; detecting and reacting to an orientation and distance of a tag; displaying feedback in an appropriate manner around the tag.
+![The first exercice!](./assets/IllustrARExercise.PNG "First Exercice")
 
 -	development of interaction techniques that can be used to control the main features of a graphical editor (JAR provided). In fact, students have also developed their own JAR file of this editor in a previous teaching unit, but for simplicity reason, one common implementation is proposed to avoid any problem due to an issue in this part of the project (otherwise manged in the other teaching unit)
 
