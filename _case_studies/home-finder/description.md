@@ -39,10 +39,15 @@ The main objective is to make the students understand that most of the code is d
 This exercise is the last exercise in the pedagogical progression of the learning unit "Interactive Systems Software Engineering" and tackles the programming of a user interface from a behavioral specification of a UI. The students have previously learned to read and to build a behavioral specification of interactive systems behavior. They also have previously learned a method to program a user interface from a specification composed of a layout picture for the presentation part of the user interface and of a textual description for the behavioral part of the user interface. 
 
 This method is composed of 5 steps:
+
     1. Identify all possible events
+    
     2. Identify all possible actions
+    
     3. Build the automaton to describe the behavior of the UI
+    
     4. From the automaton, produce the state/event matrix
+    
     5. Program source code for event handlers
 
 The students have already applied this method on very simple exercises and then on exercises with an increasing level of difficulty (increasing number of states and of events to be managed). For this exercise, the students have already produced the automaton and state/event matrix.
