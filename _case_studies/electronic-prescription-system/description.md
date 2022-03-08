@@ -8,7 +8,7 @@ authors:
         url: "https://www.di.uminho.pt/~jfc/index.shtml"
 type: Project
 application-domains:
-   - Information system
+   - Information systems
    - Health 
 interaction-techniques:
     - WIMP

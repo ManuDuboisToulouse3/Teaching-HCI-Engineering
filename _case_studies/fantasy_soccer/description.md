@@ -9,9 +9,9 @@ authors:
       url: "https://cg3hci.dmi.unica.it/lab/en/people/davide.spano"
 type: Project
 application-domains: 
-  - Sport
+  - Sports
   - Leisure
-  - Game
+  - Games
 interaction-techniques:
     - WIMP
 current-students: "Computer Science"
